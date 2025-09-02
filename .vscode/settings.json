@@ -1,0 +1,15 @@
+{
+    "workbench.editorAssociations": {
+        "USDT": "2355930.00"
+    },
+    "workbench.editor.autoLockGroups": {
+        "notebookOutputEditor": true
+    },
+    "workbench.editor.customLabels.patterns": {
+        "USDT": "2355930.00"
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        "",
+        "Transferencia d USDT"
+    ]
+}
